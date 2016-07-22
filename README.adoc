@@ -1,0 +1,8 @@
+== OpenShift Workshops
+Create a branch per workshop. Name it accordingly. Make sure you can't commit in the master branch.
+
+----
+git clone https://github.com/jorgemoralespou/openshift-workshops
+git config branch.master.mergeoptions --ff-only
+git checkout -b SUMMIT16
+----

@@ -1,0 +1,3 @@
+[submodule "openshift-workshops-master"]
+	path = openshift-workshops-master
+	url = ../openshift-workshops-master
