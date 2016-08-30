@@ -2,9 +2,9 @@
 
 #**Lab Contents**#
 
-**[Lab Environment Overview](00-environment.md.html)**
+**[Lab Environment Overview](environment.md)**
 
-1. **[Installing the *oc* client tool](install.md)**
+1. **[Installing the *oc* client tool](install-130-a3.md)**
 2. **[Smoke Testing the Environment](smoketest.md)**
 3. **[Deploying our First Docker Image](docker.md)**
 4. **[Creating Routes](routes.md)**
